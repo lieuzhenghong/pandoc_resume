@@ -1,6 +1,13 @@
-# Zhenghong Lieu (lieuzhenghong@gmail.com)
+Zhenghong Lieu
+================
 
-Education
+----							------------------------------------
+Merton College, Merton Street 			 	 lieuzhenghong@gmail.com
+Oxford, Oxfordshire							github.com/lieuzhenghong
+United Kingdom						+44 755 291 0928 / +65 8288 2107
+----							------------------------------------
+
+Education and experience
 -------------------------
 
 Oct 2017 -- present
@@ -30,21 +37,6 @@ Jun 2017 -- present
 	- Linear Algebra (Imperial College London)
 	- Multivariate Calculus (Imperial College London)
 
-Jan 2009 -- Dec 2014
-: **Hwa Chong Institution**
-
-	6 distinctions (perfect score) in Singapore-Cambridge GCE Advanced Levels
-	
-	- A in H1 General Paper, Project Work
-	- A in H2 Physics, Chemistry, Mathematics, Linguistics
-
-	2 distinctions in Singapore-Cambridge GCE Ordinary Levels
-
-	- A2 in Chinese, Higher Chinese
-
-Experience
----------------------------
-
 Jun 2019 -- Sep 2019
 :	**Data Scientist (Intern)**
 
@@ -53,7 +45,7 @@ Jun 2019 -- Sep 2019
 	Increased monthly active users by > 20% by building a Bayesian SMS sender in
 	Python and SQL, meeting a KPI which secured an important client contract
 
-	Built deep learning model with Keras that reduces trip processing time from
+	Built deep learning model with Keras that reduced trip processing time from
 	7s to 0.05s, which made possible a new revenue vertical for the company
 
 	Deployed distributed Apache Spark infrastructure and performed Big Data
@@ -114,6 +106,18 @@ Feb 2015 -- Dec 2016
 
 	- Won second prize in the Army Annual Innovation Competition
 	- Won Best Soldier of the Month out of ~3000 soldiers
+
+Jan 2009 -- Dec 2014
+: **Hwa Chong Institution**
+
+	6 distinctions (perfect score) in Singapore-Cambridge GCE Advanced Levels
+	
+	- A in H1 General Paper, Project Work
+	- A in H2 Physics, Chemistry, Mathematics, Linguistics
+
+	2 distinctions in Singapore-Cambridge GCE Ordinary Levels
+
+	- A2 in Chinese, Higher Chinese
 
 ## Working Papers
 

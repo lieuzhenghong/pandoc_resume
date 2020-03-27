@@ -30,18 +30,6 @@ Jun 2017 -- present
 	- Linear Algebra (Imperial College London)
 	- Multivariate Calculus (Imperial College London)
 
-Jan 2009 -- Dec 2014
-: **Hwa Chong Institution**
-
-	6 distinctions (perfect score) in Singapore-Cambridge GCE Advanced Levels
-	
-	- A in H1 General Paper, Project Work
-	- A in H2 Physics, Chemistry, Mathematics, Linguistics
-
-	2 distinctions in Singapore-Cambridge GCE Ordinary Levels
-
-	- A2 in Chinese, Higher Chinese
-
 Experience
 ---------------------------
 
