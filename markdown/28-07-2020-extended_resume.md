@@ -3,10 +3,19 @@
 Education
 -------------------------
 
-Oct 2017 -- present
+Oct 2017 -- Jun 2020
 :	**University of Oxford**
 
 	BA in Philosophy, Politics and Economics (PPE)
+	
+	- *First Class Honours* (5th of 259 in graduating cohort)
+	- *Raff Prize*: best second-year Economics performance in Merton College
+	- *Sam McNaughton Prize*: top score in Philosophy in the PPE first-year exams
+	- *Quantitative Political Essay Prize*: [best quantitative
+	essay](https://www.oqc.ox.ac.uk/blog.html) of my Oxford cohort
+	(~300 students)
+	- *Postmaster*: major college scholarship for sustained academic excellence
+	- *Exhibitioner*: minor college scholarship for academic excellence
 
 Jun 2017 -- present
 : **Massive Open Online Courses (MOOCs) completed**
@@ -103,57 +112,27 @@ Feb 2015 -- Dec 2016
 	- Won second prize in the Army Annual Innovation Competition
 	- Won Best Soldier of the Month out of ~3000 soldiers
 
-## Working Papers
+## Academic papers
 
 2020
-:	["Is there a trade-off between compactness and district homogeneity?](https://github.com/lieuzhenghong/human-compactness/blob/master/40_docs/1026376_Thesis in Politics.pdf)
+:	["Is there a trade-off between compactness and communities of interest?](https://github.com/lieuzhenghong/human-compactness/blob/master/40_docs/1026376_Thesis in Politics.pdf)
+
+	Computational political science paper written for undergraduate politics
+	thesis. Used Markov Chain Monte Carlo (MCMC) techniques to generate graph
+	partitions.
 
 2020
 :	["How does communication increase coordination in the Stag Hunt game?"](https://github.com/lieuzhenghong/communication-game/blob/master/40_docs/thesis.pdf)
+
+    Behavioural economics paper written for undergraduate economics module.
+	Built synchronous multiplayer game with Node.JS to examine 
+	real-world cooperative behaviour.
 
 2019
 :	["Accounting for Travel Times in Estimating Political Dislocation"](http://www.nickeubank.com/wp-content/uploads/2019/12/EubankLieuRodden_DislocationAndHumanGeography.pdf)
 
 	*with Nicholas Eubank and Jonathan Rodden*
 
-## Honors and Fellowships
+	I am improving an existing gerrymandering metric developed by Rodden and
+	Eubank---political scientists at Stanford and Duke respectively.
 
-Oct 2019
-:	Postmaster
-
-	*Major college scholarship awarded for sustained academic excellence*
-
-Aug 2019
-:	Raff Prize
-
-	*Awarded for best second-year Economics performance in my college*
-
-Oct 2018
-:	Exhibitioner
-
-	*Minor college scholarship awarded for good performance in the first year*
-
-Aug 2018
-:	Sam McNaughton Prize
-
-	*Awarded for top score in Philosophy in the PPE first-year exams*
-
-June 2018
-:	Quantitative Political Essay Prize
-
-	*Awarded to the [best quantitative
-	essay](https://www.oqc.ox.ac.uk/blog.html) of my Oxford politics cohort
-	(~300 students)*
-
-Dec 2017 -- Jun 2020
-:	Fowler Prizes
-	
-	*Awarded for First-class performance in termly exams, awarded 6/6 terms*
-
-Sep 2017
-:	National Infocomm Scholarship
-
-	*Full-ride undergraduate scholarship awarded to promising Singaporean
-	students by the Infocomm Media and Development Authority (IMDA), a
-	Singaporean statutory board. Awarded on the basis of academic excellence,
-	demonstrated interest in tech, and a will to serve the nation.*
