@@ -7,8 +7,7 @@ Oct 2017 -- Jun 2020
 
     BA in Philosophy, Politics and Economics (PPE)
 
-    - *First Class Honours* (5th of 259 in graduating cohort; top 1.9%)
-    - *Raff Prize*: best second-year Economics performance in Merton College
+    - *First Class Honours* (ranked 5th/259 in graduating cohort)
     - *Quantitative Political Essay Prize*: [best quantitative
     essay](https://www.oqc.ox.ac.uk/blog.html) of my Oxford cohort
     (~300 students)
@@ -79,72 +78,3 @@ Dec 2018
     computer architecture course. Built a [chess variant](https://github.com/lieuzhenghong/nand2tetris-dropship-chess) for that OS.
 
 \pagebreak
-
-## Things I cut as being possibly not so strong
-
-Let me know which ones I should include:
-are my selected projects strong enough?
-Should I include academic papers instead?
-
-### School prizes
-
-- _Sam McNaughton Prize_: top score in Philosophy in the PPE first-year exams
-- _Exhibitioner_: minor college scholarship for academic excellence
-
-### Work experience
-
-Jan 2017 -- May 2017
-: **Venture Capital Analyst (Intern)**
-
-    _iGlobe Partners_
-
-    Co-wrote 2 papers recommending investment; senior management accepted both
-    recommendations and made Stage B investments
-
-    Developed [more powerful version]() of [Microsoft Mail Merge]() in Python
-    that automates away 90% of human errors and saves 50% time when sending
-    mass mailers
-
-May 2016 -- Sep 2017
-: **Python Programming Tutor (Volunteer)**
-
-    *Ulu Pandan Stars*
-
-    Taught a team of underprivileged children Python and led them to win 3rd
-    (amongst ~100 participating teams) in national hackathon CodeXtreme
-
-Feb 2015 -- Dec 2016
-: **Soldier (Conscript)**
-
-    _Singapore Armed Forces (SAF), HQ Army Medical Service_
-
-    Developed the Army's [first item tracker and SMS reminder
-    service](https://github.com/lieuzhenghong/automated-transaction-tracker)
-    with React and Node.js:
-
-    - Won second prize in the Army Annual Innovation Competition
-    - Won Best Soldier of the Month out of ~3000 soldiers
-
-### Academic papers
-
-2020
-: ["Is there a trade-off between compactness and communities of interest?](https://github.com/lieuzhenghong/human-compactness/blob/master/40_docs/1026376_Thesis in Politics.pdf)
-
-    Computational political science paper written for undergraduate politics
-    thesis. Used Markov Chain Monte Carlo (MCMC) techniques to generate graph
-    partitions.
-
-2020
-: ["How does communication increase coordination in the Stag Hunt game?"](https://github.com/lieuzhenghong/communication-game/blob/master/40_docs/thesis.pdf)
-
-    Behavioural economics paper written for undergraduate economics module.
-    Built synchronous multiplayer game with Node.JS to examine
-    real-world cooperative behaviour.
-
-2019
-: ["Accounting for Travel Times in Estimating Political Dislocation"](http://www.nickeubank.com/wp-content/uploads/2019/12/EubankLieuRodden_DislocationAndHumanGeography.pdf)
-
-    *with Nicholas Eubank and Jonathan Rodden*
-
-    I am improving an existing gerrymandering metric developed by Rodden and
-    Eubank---political scientists at Stanford and Duke respectively.
